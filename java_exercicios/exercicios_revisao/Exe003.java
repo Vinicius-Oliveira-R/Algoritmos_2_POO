@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class Exe003 {
     /*
      * Fatorial de um Número
@@ -5,13 +7,25 @@ public class Exe003 {
      * Entrada: 5
      * Saída: 120
      */
-    public static void main(String[]args) {
-        int numero = 5;
-        int fatorial = 1; 
+    /*
+     * public static void main(String[]args) {
+     * int numero = 5;
+     * int fatorial = 1;
+     * for (int i = 1; i <= numero; i++) {
+     * 
+     * fatorial = fatorial * i;
+     * System.out.println(fatorial);
+     * }
+     * }
+     */
+    public static void main(String[] args) {
+        Scanner teclado = new Scanner(System.in);
+        System.out.println("Digite um numero para calcularmos o seu fatorial: ");
+        int numero = teclado.nextInt();
+        int fatorial = 1;
         for (int i = 1; i <= numero; i++) {
-
-            fatorial = fatorial * i;
-            System.out.println(fatorial);
+            fatorial = fatorial*i;
         }
+        System.out.println(fatorial);
     }
 }
