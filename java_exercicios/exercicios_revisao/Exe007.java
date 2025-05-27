@@ -18,7 +18,7 @@ public class Exe007 {
             }
         }
         for (int i = 0; i < entrada.length; i++) {
-            System.out.println(entrada[i]);
+            System.err.println(entrada[i]);
         }
     }
 }
