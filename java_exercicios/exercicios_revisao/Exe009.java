@@ -14,7 +14,7 @@
 //         int numeroDecimal = teclado.nextInt();
 //         int cont = numeroDecimal;
 //         while(cont > 0){
-//             numeroDecimal = 
+//             numeroDecimal = numeroDecimal
 //         }
 //     }
 // }
