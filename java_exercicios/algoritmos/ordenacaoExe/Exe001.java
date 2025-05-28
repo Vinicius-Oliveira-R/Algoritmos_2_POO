@@ -1,4 +1,3 @@
-
 public class Exe001 {
     /*
      * Dada a sequência de números:
@@ -86,6 +85,7 @@ public class Exe001 {
             mergeSort(array, aux, meio + 1, fim);
             intercalacao(array, aux, inicio, meio, fim);
         }
+        System.out.println();
 
     }
 
