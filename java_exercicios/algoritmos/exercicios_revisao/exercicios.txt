@@ -1,8 +1,4 @@
 
- Maior de Três Números
-Problema: Determine o maior entre três números.
-Entrada: 5 7 3
-Saída: 7
 
  Soma de Pares
 Problema: Calcule a soma de todos os números pares entre 1 e N (inclusive).
