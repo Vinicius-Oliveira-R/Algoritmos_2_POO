@@ -15,14 +15,18 @@ public class Exe002 {
     }
      public static void bubbleSort(int[]array){
         int aux[] = new int[array.length];
-        for (int i = 0; i < aux.length; i++) {
-            for (int j = 0; j < aux.length; j++) {
-                if(array[j] > array[j+1]){
+        for (int i = 0; i < array.length; i++) {
+            for (int j = 0; j < array.length - 1; j++) {
+                if(array[j] < array[j+1]){
                     int temp = array[j];
                     array[j] = array[j+1];
                     array[j+1] = temp;
                 }
             }
+        }
+        System.out.print("Vetor ordenado em ordem decrescente: ");
+        for (int i = 0; i < array.length; i++) {
+            System.out.print(array[i] + " ");
         }
      }
 }

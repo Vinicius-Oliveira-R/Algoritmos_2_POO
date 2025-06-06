@@ -1,0 +1,57 @@
+Exercícios para estudos e revisão de Algoritmos I e II
+
+EXE001 - Conversão de Temperatura
+Problema: Converta uma temperatura de Celsius para Fahrenheit.
+Fórmula: F = C * 9/5 + 32
+Entrada: 25
+Saída: 77
+
+EXE002 - Média de Três Números
+Problema: Escreva um programa/método que receba três números e calcule a média aritmética deles.
+Entrada: 4 6 8
+Saída: 6
+
+EXE003 - Fatorial de um Número
+Problema: Calcule o número fatorial de um número.
+Entrada: 5
+Saída: 120
+
+EXE004 - Número Reverso
+Problema: Inverta a ordem dos dígitos de um número.
+Entrada: 1234
+Saída: 4321
+
+EXE005 - Palíndromo
+Problema: Verifique se uma palavra é um palíndromo.
+Entrada: radar
+Saída: Sim
+
+EXE006 - Soma dos Dígitos
+Problema: Calcule a soma dos dígitos de um número.
+Entrada: 123
+Saída: 6
+
+EXE007 - Ordenação de Três Números
+Problema: Ordene três números em ordem crescente.
+Entrada: 3 1 2
+Saída: 1 2 3
+
+EXE008 - Contagem de Vogais
+Problema: Conte o número de vogais em uma string sem utilizar a função length.
+Entrada: programacao
+Saída: 5
+
+EXE009 - Conversão de Base Decimal para Binário
+Problema: Converta um número decimal para binário.
+Entrada: 10
+Saída: 1010
+
+EXE010 - Potência de Dois Números
+Problema: Calcule a potência de um número em relação a outro.
+Entrada: 2 3
+Saída: 8
+
+EXE011 - Contagem de Palavras
+Problema: Conte o número de palavras em uma frase.
+Entrada: Olá mundo da programação
+Saída: 4
