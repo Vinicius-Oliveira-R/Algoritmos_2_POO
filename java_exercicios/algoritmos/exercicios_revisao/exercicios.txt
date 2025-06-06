@@ -1,11 +1,4 @@
 
-
- Média Geométrica
-Problema: Calcule a média geométrica de três números.
-Fórmula: M = (a * b * c)^(1/3)
-Entrada: 2 8 4
-Saída: 4
-
  Maior de Três Números
 Problema: Determine o maior entre três números.
 Entrada: 5 7 3
