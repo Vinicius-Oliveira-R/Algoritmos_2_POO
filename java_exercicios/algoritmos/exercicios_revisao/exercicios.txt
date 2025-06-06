@@ -1,6 +1,6 @@
 
 
- Soma de Pares
+Soma de Pares
 Problema: Calcule a soma de todos os números pares entre 1 e N (inclusive).
 Entrada: 10
 Saída: 30
