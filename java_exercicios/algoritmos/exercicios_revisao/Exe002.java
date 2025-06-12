@@ -26,5 +26,5 @@ public class Exe002 {
         int media = (numero1 + numero2 + numero3) /3;
         System.out.println("A média de " + numero1 + " + " + numero2 + " + " + numero3 + " é: " + media);
     }
-
+    
 }
