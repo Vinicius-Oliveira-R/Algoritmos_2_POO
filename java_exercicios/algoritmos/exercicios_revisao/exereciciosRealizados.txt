@@ -76,3 +76,16 @@ EXE015 - Soma de Números em Intervalo
 Problema: Calcule a soma de todos os números em um intervalo [a, b].
 Entrada: 1 5
 Saída: 15
+
+EXE016 - Multiplicação de Matrizes 2x2
+Problema: Multiplique duas matrizes 2x2.
+Entrada:
+1 2
+3 4
+
+5 6
+7 8
+
+Saída:
+19 22
+43 50
